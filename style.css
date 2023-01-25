@@ -1,0 +1,31 @@
+.heading{
+    font-size: 23px;
+    margin:0px;
+    box-shadow: 5px 5px 5px black;
+    width: 100%;
+    background-color: rgb(150, 23, 23);
+    color: white;
+    line-height: 2;
+}
+
+.note{
+    font-size: 17px;
+    color:rgb(255, 255, 255);
+}
+.copy_right_footer{
+    bottom: 0;
+    position:fixed;
+    text-align:center;
+    background-color:rgb(150, 23, 23);
+    width:100%;
+    font-size: 18px;
+    color:white;
+}
+canvas{
+border-style: double;
+border-color: rgb(193, 6, 6);
+border-radius: 20;
+}
+body{
+    background-image: url("https://static3.depositphotos.com/1003962/209/i/950/depositphotos_2097914-stock-photo-black-and-white-letters-background.jpg");
+}
